@@ -1,6 +1,6 @@
 # About
 
-Use `secretGenerator` with `SealedSecrets` by teaching Kustomize about the relationship between SealedSecrets and Secrets names
+Use `secretGenerator` with `SealedSecrets` by teaching Kustomize about the relationship between SealedSecrets and Secrets names.
 
 I find myself repeating this in Kustomizations a lot, so here it is in a reusable form.
 
